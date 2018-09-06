@@ -1,0 +1,17 @@
+LIST OF ALL EXP
+------------------------------------------------------------------
+1.To implement following Java programs:-
+    (a)Factorial of a number.
+    (b)To determine if year is leap or not.
+    (c)Fibonacci series.
+    (d)Check palindrome.
+    (e)To find largest number in an array.
+
+2.  (a)Wap to display a greet message according to the marks obtained by the student.
+    (b)Wap to calculate the area of the circle by taking input as a radius.
+    (c)Wap to find sum and average of n numbers taken from the user.
+    (d)Wap to implement stack using stack class.
+
+
+
+ 

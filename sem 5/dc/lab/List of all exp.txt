@@ -1,0 +1,6 @@
+LIST OF ALL EXP
+------------------------------------------------------------------
+1.To study sampling Theorem.
+2.To study differential line coding techniques.
+3.To perform pulse code modulation.
+4.To study delta modulation.
