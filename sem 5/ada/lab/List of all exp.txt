@@ -2,3 +2,4 @@ LIST OF ALL EXP
 ------------------------------------------------------------------
 1.To implement matrix multiplication and analyse its time complexity.
 2.To implement linear search and binary search and analyse its time complexity.
+3.Wap to analyse the time complexity of selection sort and bubble sort.
