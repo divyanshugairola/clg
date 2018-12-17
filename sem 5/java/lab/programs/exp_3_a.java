@@ -48,7 +48,7 @@ class stackuse extends stack {
 	
 }
 
-public class exp_3 {
+public class exp_3_a{
 
 	public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in);

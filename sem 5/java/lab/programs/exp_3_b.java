@@ -21,7 +21,7 @@ class class4 extends class1{
 	
 }
 
-public class inheritance {
+public class exp_3_b {
 	
 	public static void main(String[] args) {
 		System.out.println("single level");
