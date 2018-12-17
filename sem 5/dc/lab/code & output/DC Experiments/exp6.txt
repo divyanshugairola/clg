@@ -1,0 +1,27 @@
+clc;clear all; close all;
+Tb=1;
+fc=1/Tb;
+Ac=5;
+b=[1 0 0 1 0 1 1 0 1 1];
+n=length(b);
+t=0:0.001:.9999;
+car = Ac*cos(2*pi*fc*t);
+psk=[];
+for i=1:10
+	if b(i)==1
+		psk=[psk car];
+	else
+		psk=[psk -car];
+	end
+end
+figure(1);
+subplot(211);
+stairs(0:10,[b b(10)],'black','Linewidth', 1);
+axis([0,10,-0.2,1.2]);
+xlabel('Time');
+ylabel('Amplitude');
+subplot(212);
+plot(0:0.001:9.999,psk,'black','Linewidth',1);
+xlabel('Time');
+ylabel('Amplitude');
+title('PSK Modulated Signal');
